@@ -4,7 +4,8 @@ The MaskRCNN instance segmentation model was developed using Facebook AI reseach
 # Dataset
 
 # Output
-
+![alt text](https://github.com/muhamed-aroui/Instance-segmentation/tree/main/output/panukeTest6.png)
+![alt text](https://github.com/muhamed-aroui/Instance-segmentation/tree/main/output/panukeTest3.png)
 # References
 @misc{wu2019detectron2,
   author =       {Yuxin Wu and Alexander Kirillov and Francisco Massa and
