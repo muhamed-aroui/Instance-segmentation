@@ -1,8 +1,8 @@
 # Instance-segmentation
 The MaskRCNN instance segmentation model was developed using Facebook AI reseach's (FAIR) [Detectron 2](https://github.com/facebookresearch/detectron2)  framework trained on the [PanNuke Dataset] (https://jgamper.github.io/PanNukeDataset)
 
-# Dataset
-
+# Training
+The folder Pannuke_cocoFormat  contains the Pannuke dataset converted to COCO format since it is the expected format of detectron 2, it can be used to train adn do inferance of  the MaskRCNN model using the 'PIMA.ipynb' notebook
 # Output
 An example of instance segmentation on panuke validation set:
 
