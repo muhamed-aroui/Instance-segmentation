@@ -1,5 +1,5 @@
 # Instance-segmentation
-The [Detectron 2](https://github.com/facebookresearch/detectron2) MaskRCNN implementation for the [PanNuke Dataset]( (https://jgamper.github.io/PanNukeDataset/))
+The [Detectron 2](https://github.com/facebookresearch/detectron2) MaskRCNN implementation for the [PanNuke Dataset] (https://jgamper.github.io/PanNukeDataset/)
 
 # Dataset
 
