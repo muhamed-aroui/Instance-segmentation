@@ -1,5 +1,5 @@
 # Instance-segmentation
-The [Detectron 2](https://github.com/facebookresearch/detectron2) MaskRCNN implementation for the [PanNuke Dataset] (https://jgamper.github.io/PanNukeDataset/)
+The MaskRCNN instance segmentation model was developed using Facebook AI reseach's (FAIR) [Detectron 2](https://github.com/facebookresearch/detectron2)  framework trained on the [PanNuke Dataset] (https://jgamper.github.io/PanNukeDataset)
 
 # Dataset
 
